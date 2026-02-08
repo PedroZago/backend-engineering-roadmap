@@ -30,4 +30,4 @@ Enterprise-grade backend API built with NestJS, following Clean Architecture pri
 
 ## Status
 
-🚧 In development
+🚧 Planned
